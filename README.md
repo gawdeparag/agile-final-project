@@ -1,2 +1,3 @@
 # agile-final-project
-Agile Final Project
+
+This repository is a part of "Introduction to Agile Development and Scrum."
